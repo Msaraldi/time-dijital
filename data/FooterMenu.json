@@ -1,0 +1,23 @@
+{
+  "social": [
+    {"type":  "facebook", "icon": "fa-facebook-f", "url":  "https://www.facebook.com/"},
+    {"type":  "twitter", "icon": "fa-twitter", "url":  "https://twitter.com/"},
+    {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "https://www.pinterest.com/"},
+    {"type":  "linkedin", "icon": "fa-linkedin-in", "url":  "https://www.linkedin.com/"},
+    {"type":  "instagram", "icon": "fa-instagram", "url":  "https://www.instagram.com/"}
+
+  ],
+  "services": [
+    {"title":  "Kurumsal Kimlik", "url":  "/contact"},
+    {"title":  "Website Geliştirme", "url":  "/contact"},
+    {"title":  "E-Ticaret Website Geliştirme", "url":  "/contact"},
+    {"title":  "Mobil Uygulama Geliştirme", "url":  "/contact"},
+    {"title":  "Arama Motoru Optimizasyonu", "url":  "/contact"},
+    {"title":  "Marka Danışmanlığı","url":  "/contact"},
+    {"title":  "Sosyal Medya Yönetimi", "url":  "/contact"}
+  ],
+
+  "support": [
+    {"title":  "İletişim", "url":  "/contact"}
+  ]
+}

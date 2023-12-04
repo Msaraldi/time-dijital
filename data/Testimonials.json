@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "client": {
+      "id": 1,
+      "image": "/images/testimonial/woman.jpg",
+      "fullName": "Zeynep Avcı",
+      "designation": ""
+    },
+    "description": "Time Dijital ile çalışmak, işimizi tamamen değiştirdi. Pazaryeri takibi ve satış arttırma konularında uzman ekipleri sayesinde online varlığımızı güçlendirdik. İşbirlikleri sürecinde samimiyet ve profesyonellikleri, Time Dijital'i benzersiz kılıyor. Kesinlikle tavsiye ederim!"
+  },
+  {
+    "id": 2,
+    "client": {
+      "id": 2,
+      "image": "/images/testimonial/man.jpg",
+      "fullName": "Berkay Demir",
+      "designation": ""
+    },
+    "description": "Time Dijital, kurumsal web sitemizin pazarlanması ve SEO optimizasyonu konusunda muazzam bir iş çıkardı. Grafik tasarım ekibi, marka kimliğimizi güçlendiren harika çalışmalar yaptı. İşbirliklerinde gösterdikleri özen ve hızları gerçekten takdire şayan."
+  },
+  {
+    "id": 3,
+    "client": {
+      "id": 3,
+      "image": "/images/testimonial/woman.jpg",
+      "fullName": "Elif Yılmaz",
+      "designation": ""
+    },
+    "description": "Sosyal medya yönetimi konusunda Time Dijital ile çalışmak, markamızın dijital dünyada parlamasını sağladı. Mobil uygulama geliştirme sürecindeki profesyonellikleri ve müşteri memnuniyetine verdikleri önemle fark yarattılar. Harika bir ekip!"
+  },
+  {
+    "id": 4,
+    "client": {
+      "id": 4,
+      "image": "/images/testimonial/man.jpg",
+      "fullName": "Kaan Aydın",
+      "designation": ""
+    },
+    "description": 
+    "Time Dijital, e-ticaret stratejileri konusunda gerçek bir uzman. Onlarla çalışmak, satışlarımızda gözle görülür bir artışa neden oldu. İşlerini samimiyetle ve büyük bir özenle yapıyorlar. Bizim için değerli bir iş ortağı oldular."  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Tasarım",
+    "description": "Markanızı özgün tasarımlarla güçlendirerek, sizlere sunduğumuz profesyonellikle kendi dijital dünyanızı yaratmanız için sizi bekliyoruz.",
+    "category": "Default",
+    "slug": "design",
+    "process": {
+      "title": "4 Adımda Tarasım Süreci",
+      "description": "",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Hedef Belirleme",
+          "subtitle": "1. Adım",
+          "description": "İlk aşama, müşteri ile kapsamlı bir görüşme yaparak proje hedeflerini, hedef kitleyi ve genel beklentileri belirlemeyi içerir. Müşterinin taleplerini anlamak, projenin tasarım parametrelerini belirlememize yardımcı olur.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/brief-alma.png"
+        },
+        {
+          "id": 2,
+          "title": "Araştırma ve Analiz",
+          "subtitle": "2. Adım",
+          "description": "Tasarım sürecinin ikinci adımı, sektör trendlerini, rekabeti ve müşteri markasını anlamak için araştırma ve analiz içerir. Renk, tipografi ve görsel öğelerin seçiminde bu veriler önemli rol oynar.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/araştırma-analiz.png"
+        },
+        {
+          "id": 3,
+          "title": "Tasarım Uygulaması",
+          "subtitle": "3. Adım",
+          "description": "Seçilen konsept üzerinden tasarım sürecine geçilir. Grafik tasarım araçları kullanılarak, renk, tipografi, görsel öğeler ve diğer tasarım unsurları entegre edilir. Müşteri ile sürekli geri bildirim alışverişi yapılır.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/tasarım-uygulaması.png"
+        },
+        {
+          "id": 4,
+          "title": "Üretim ve Dağıtım",
+          "subtitle": "4. Adım",
+          "description": "Tasarımın onaylanmasının ardından, gerekli dosyalar hazırlanır ve ilgili mecralarda kullanılmak üzere müşteriye teslim edilir. Bu aşamada, tasarımın baskıya uygunluğu veya dijital platformlarda doğru görüntülenmesi için gerekli kontroller yapılır.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/üretim-dağıtım.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-02",
+    "title": "Yazılım",
+    "description": " İş süreçlerinizi etkileyici özelleştirilmiş çözümlerle optimize ederek, en yeni teknolojilerle tanışmanızı sağlamak üzere buradayız.",
+    "category": "Default",
+    "slug": "development",
+    "process": {
+      "title": "4 Adımda Yazılım Hizmeti ",
+      "description": "",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "İhtiyaç Analizi ve Planlama",
+          "subtitle": "1. Adım",
+          "description": "Yazılım süreci, müşteri ihtiyaçları ve projenin hedefleri belirlenerek başlar. Bu aşamada, kullanıcı talepleri anlaşılır, proje kapsamı belirlenir ve geliştirme süreci için bir plan oluşturulur.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/ihtiyaç-analizi.png"
+        },
+        {
+          "id": 2,
+          "title": "Tasarım ve Geliştirme",
+          "subtitle": "2. Adım",
+          "description": "Yazılımın tasarımı ve geliştirme aşamasında, belirlenen ihtiyaçlara uygun bir mimari oluşturulur. Kodlama süreci başlar ve yazılımın temel fonksiyonları geliştirilir. Bu aşamada sürekli geri bildirim alınarak esneklik sağlanır.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/tasarım-geliştirme.png"
+        },
+        {
+          "id": 3,
+          "title": "Test ve Doğrulama",
+          "subtitle": "3. Adım",
+          "description": "Yazılım, farklı kullanım senaryolarında kapsamlı bir şekilde test edilir. Hatalar tespit edilip düzeltilir, performans kontrolü yapılır ve yazılımın istikrarlı bir şekilde çalışması sağlanır. Bu aşama, ürünün kalitesini artırmak için kritiktir.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/test-doğrulama.png"
+        },
+        {
+          "id": 4,
+          "title": "Dağıtım ve Bakım",
+          "subtitle": "4. Adım",
+          "description": "Onay alındıktan sonra yazılım canlı ortama dağıtılır. Dağıtımın ardından, kullanıcılarla etkileşim ve geri bildirim sürekli olarak takip edilir. Ayrıca, yazılımın güncellenmesi ve bakımı düzenli olarak yapılır, böylece kullanıcı deneyimi sürekli olarak güncel ve sorunsuz kalır.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/yazılım-dağıtım.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-03.svg",
+      "width": "34",
+      "height": "34"
+    },
+    "iconColorClass": "gradient-color-03",
+    "title": "Pazaryeri Takibi",
+    "description": "Pazar dinamiklerini titizlikle izleyerek, işinizi geliştirmeniz ve rekabet avantajı sağlamanız için kurumsal çözümlerimizi sizlere sunuyoruz.",
+    "category": "Default",
+    "slug": "online-marketing",
+    "process": {
+      "title": "4 Adımda Pazar Yeri Takibi",
+      "description": "",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Trend ve Rekabet Analizi",
+          "subtitle": "1. Adım",
+          "description": "Pazaryeri takibi süreci, sektörel trendleri ve rekabeti anlamakla başlar. Müşterilerin ilgi alanları, rakip firmaların stratejileri ve sektördeki yenilikler düzenli olarak izlenir. Bu analiz, kampanya ve stratejilerin güncel ve rekabetçi olmasını sağlar.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/rekabet-analizi.png"
+        },
+        {
+          "id": 2,
+          "title": "Veri Toplama ve Analiz",
+          "subtitle": "2. Adım",
+          "description": "Pazaryerindeki değişiklikleri belirlemek için veri toplama süreci yürütülür. Satış rakamları, müşteri geri bildirimleri ve sosyal medya etkileşimleri gibi veriler analiz edilir. Bu sayede pazar eğilimleri daha net bir şekilde anlaşılır ve stratejik kararlar alınabilir.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/veri-toplama-analiz.png"
+        },
+        {
+          "id": 3,
+          "title": "Müşteri Geri Bildirimi ve İzleme",
+          "subtitle": "3. Adım",
+          "description": "Müşteri geri bildirimleri, pazaryerindeki performansı değerlendirmek için önemli bir göstergedir. Müşteri memnuniyeti, ürün beklentileri ve şikayetler düzenli olarak izlenir. Bu geri bildirimler, reklam ajansına müşteri odaklı stratejiler geliştirmede yardımcı olur.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/müşteri-geri-bildirimi.png"
+        },
+        {
+          "id": 4,
+          "title": "Stratejik Ayarlamalar ve Raporlama",
+          "subtitle": "4. Adım",
+          "description": " Pazaryeri takibi sürecinin son aşamasında, elde edilen verilere dayanarak stratejik ayarlamalar yapılır. Reklam kampanyaları, ürün yerleştirmeleri ve fiyatlandırma stratejileri güncellenir. Ayrıca, müşterilere düzenli raporlar sunularak, kampanya performansı ve pazar payı hakkında şeffaf bir iletişim sağlanır.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/stratejik-raporlama.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-03.svg",
+      "width": "34",
+      "height": "34"
+    },
+    "iconColorClass": "gradient-color-04",
+    "title": "Pazarlama",
+    "description": "Güçlü pazarlama stratejilerimizle markanızı benzersiz bir hikayeyle tanıtarak, işbirliği yapmaya davet ediyoruz.",
+    "category": "Default",
+    "slug": "business",
+    "process": {
+      "title": "4 Adımda Pazarlama",
+      "description": "",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Hedef Belirleme ve Araştırma",
+          "subtitle": "1. Adım",
+          "description": "Pazarlama süreci, müşteri ihtiyaçları ve hedef kitle analizi ile başlar. Reklam ajansı, müşterinin ürün veya hizmetine yönelik hedefler belirler ve pazar araştırmaları yaparak rekabeti ve tüketici davranışlarını anlamaya odaklanır.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/hedef-belirleme.png"
+        },
+        {
+          "id": 2,
+          "title": "Strateji Geliştirme ve Planlama",
+          "subtitle": "2. Adım",
+          "description": "Belirlenen hedeflere ulaşmak için strateji geliştirme aşamasında, pazarlama kanalları ve iletişim araçları belirlenir. Reklam kampanyaları, dijital pazarlama stratejileri ve sosyal medya planları oluşturularak, müşteriye özgü etkili bir pazarlama planı hazırlanır.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/strateji-geliştirme.png"
+        },
+        {
+          "id": 3,
+          "title": "Uygulama ve İzleme",
+          "subtitle": "3. Adım",
+          "description": "Geliştirilen strateji, plana dökülerek uygulanır. Reklamlar yayına alınır, dijital kampanyalar başlatılır ve sosyal medya hesapları yönetilir. Bu süreçte, kampanya performansı düzenli olarak izlenir ve geri bildirimlerle kampanya ayarlamaları yapılır.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/uygulama-izleme.png"
+        },
+        {
+          "id": 4,
+          "title": "Analiz ve Optimizasyon",
+          "subtitle": "4. Adım",
+          "description": "Pazarlama sürecinin son aşamasında, kampanya sonuçları detaylı bir şekilde analiz edilir. Elde edilen verilere dayanarak stratejik optimizasyonlar yapılır. Bu aşama, gelecekteki pazarlama planları için ders çıkarılmasını sağlar ve müşteri hedeflerine daha etkili bir şekilde ulaşmak için stratejiyi geliştirmeye odaklanır.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/analiz-optimizasyon.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-06",
+    "title": "Marka Danışmanlığı",
+    "description": "Kullanıcı etkileşimini artırarak, dijital dünyada fark yaratmanıza olanak tanıyan mobil uygulamalarımızla sizi bekliyoruz.",
+    "category": "Default",
+    "slug": "technology",
+    "process": {
+      "title": "4 Adımda Mobil Uygulama",
+      "description": "",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Stratejik Planlama ve Hedef Belirleme",
+          "subtitle": "1. Adım",
+          "description": "Mobil uygulama süreci, müşteri ihtiyaçları ve pazar analizi ile başlar. Reklam ajansı, uygulamanın amacını belirler ve hedef kitlesini tanımlar. Stratejik planlama aşamasında, kullanıcı deneyimi ve uygulama işlevselliği ön planda tutularak bir plan oluşturulur.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/stratejik-planlama.png"
+        },
+        {
+          "id": 2,
+          "title": "Tasarım ve Geliştirme",
+          "subtitle": "2. Adım",
+          "description": "Uygulama tasarımı ve geliştirme aşamasında, belirlenen stratejiye uygun arayüz tasarlanır ve geliştirilir. Kullanıcı dostu bir deneyim sağlamak için mobil platform gereksinimleri göz önünde bulundurulur. Bu aşamada, sürekli geri bildirim alarak uygulamanın istenen özelliklere uygunluğu sağlanır.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/tasarım-geliştirme-mobil.png"
+        },
+        {
+          "id": 3,
+          "title": "Test ve Geri Bildirim",
+          "subtitle": "3. Adım",
+          "description": "Geliştirilen mobil uygulama, farklı cihazlarda ve kullanım senaryolarında kapsamlı bir şekilde test edilir. Hatalar tespit edilip düzeltilir, performans kontrolü yapılır ve kullanıcı geri bildirimleri değerlendirilir. Bu aşama, uygulamanın istikrarlı ve güvenilir bir şekilde çalışmasını sağlar.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/test-geri-bildirim.png"
+        },
+        {
+          "id": 4,
+          "title": "Dağıtım ve Pazarlama",
+          "subtitle": "4. Adım",
+          "description": "Uygulama, onay alındıktan sonra ilgili uygulama mağazalarında (App Store, Google Play) yayına alınır. Aynı zamanda, reklam ajansı uygulamanın pazarlanması için stratejiler geliştirir ve tanıtım kampanyaları düzenler. Sürekli kullanıcı geri bildirimleri ve performans analizleri ile uygulama, zamanla güncellenerek kullanıcı deneyimi ve uygulama performansı optimize edilir",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/dağıtım-pazarlama.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-02.svg",
+      "width": "41",
+      "height": "24"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Sosyal Medya Yönetimi",
+    "description": "Sosyal medya yönetimi ile markanızı kurumsal bir imajla tanıtarak, online varlığınızı güçlendirmeniz adına sizleri desteklemek için buradayız.",
+    "category": "Default",
+    "slug": "content-strategy",
+    "process": {
+      "title": "4 Adımda Sosyal Medya Yönetimi",
+      "description": "",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Hedef Belirleme ve Strateji Oluşturma",
+          "subtitle": "1. Adım",
+          "description": "Sosyal medya süreci, müşteri hedeflerini belirleyerek başlar. Reklam ajansı, markanın sosyal medyadaki varlığını güçlendirmek için stratejik bir plan oluşturur. Hedef kitle analizi yaparak hangi platformlarda aktif olunması gerektiğini belirler ve içerik stratejisini oluşturur.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/hedef-belirleme-sosyal.png"
+        },
+        {
+          "id": 2,
+          "title": "İçerik Üretimi ve Yayını",
+          "subtitle": "2. Adım",
+          "description": "Oluşturulan stratejiye uygun olarak çekici ve etkili içerikler üretilir. Görsel ve metin içerikleri, markanın mesajını güçlendirecek şekilde hazırlanır. Ayrıca, belirlenen yayın takvimi doğrultusunda içerikler sosyal medya platformlarına düzenli olarak yayınlanır.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/içerik-üretimi.png"
+        },
+        {
+          "id": 3,
+          "title": "İzleme ve Etkileşim",
+          "subtitle": "3. Adım",
+          "description": "Reklam ajansı, sosyal medya hesaplarını düzenli olarak izleyerek kullanıcı etkileşimlerini değerlendirir. Müşteri sorularına cevap verilir, olumlu ve olumsuz geri bildirimler takip edilir. İstatistikler ve analiz araçları kullanılarak kampanya performansı değerlendirilir ve gerektiğinde stratejik değişiklikler yapılır.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/izlenme-etkileşim.png"
+        },
+        {
+          "id": 4,
+          "title": "Raporlama ve Optimizasyon",
+          "subtitle": "4. Adım",
+          "description": "Sosyal medya sürecinin son aşamasında, belirlenen hedeflere ulaşma oranları ve performans metrikleri raporlanır. Bu raporlar, gelecek stratejileri belirlemek için kullanılır. Ajans, kampanya başarısını artırmak amacıyla içerik stratejilerini optimize eder ve sosyal medya trendlerine uyum sağlamak için sürekli güncellenen bir yaklaşım benimser.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/raporlama.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/icons/icon-04.svg",
+      "width": "23",
+      "height": "36"
+    },
+    "iconColorClass": "",
+    "title": "Logo & Branding",
+    "description": "Sosyal medya yönetimi ile markanızı kurumsal bir imajla tanıtarak, online varlığınızı güçlendirmeniz adına sizleri desteklemek için buradayız.",
+    "category": "Design",
+    "slug": "logo-and-branding",
+    "process": {
+      "title": "Our logo & branding process",
+      "description": "Our comprehensive design strategy ensures a perfectly crafted logo for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  }
+]

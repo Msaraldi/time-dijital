@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Ana Sayfa",
+    "url": "/"
+    
+  },
+  {
+    "id": 2,
+    "title": "Hizmetler",
+    "url": "/services"
+
+  },
+  {
+    "id": 3,
+    "title": "Hakkımızda",
+    "url": "/about",
+    "hasChildren": false
+  },
+
+  
+  {
+    "id": 6,
+    "title": "İletişim",
+    "url": "/contact",
+    "hasChildren": false
+  }
+]
