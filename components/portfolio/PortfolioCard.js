@@ -24,16 +24,14 @@ const PortfolioCard = ({data, index, activeIndex, changeActive}) => {
             <div className="inner">
                 <Tilt tiltMaxAngleX={9} tiltMaxAngleY={9}>
                     <div className="thumb">
-                        <Link href={`/portfolio/${slugify(data.title)}`}>
-                            <a>
+                       
                                 <Image
                                     width={400}
                                     height={380}
                                     src={data.image}
                                     alt={`${data.title} portfolio image`}
                                 />
-                            </a>
-                        </Link>
+                        
                     </div>
                 </Tilt>
 
