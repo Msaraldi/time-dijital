@@ -38,9 +38,9 @@ const PortfolioCard = ({data, index, activeIndex, changeActive}) => {
                 <div className="port-overlay-info">
                     <div className="hover-action">
                         <h4 className="title">
-                            <Link href={`/portfolio/${slugify(data.title)}`}>
+                            
                                 <a>{data.title}</a>
-                            </Link>
+                          
                         </h4>
                         <span className="category">
               {data.categories?.map((category, index) => {
