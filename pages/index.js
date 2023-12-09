@@ -22,6 +22,17 @@ const HomeOne = ({ posts }) => {
     <Layout>
       <Head>
         <title>Time Dijital</title>
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1M1RLT16S0">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1M1RLT16S0');
+</script>
+    
       </Head>
 
       <main className="page-wrapper">
