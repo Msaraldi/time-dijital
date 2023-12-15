@@ -226,33 +226,33 @@
       "strategies": [
         {
           "id": 1,
-          "title": "Stratejik Planlama ve Hedef Belirleme",
+          "title": "Marka Analizi ve Pozisyon Belirleme: ",
           "subtitle": "1. Adım",
-          "description": "Mobil uygulama süreci, müşteri ihtiyaçları ve pazar analizi ile başlar. Reklam ajansı, uygulamanın amacını belirler ve hedef kitlesini tanımlar. Stratejik planlama aşamasında, kullanıcı deneyimi ve uygulama işlevselliği ön planda tutularak bir plan oluşturulur.",
+          "description": "Marka danışmanlığı süreci, müşterinin marka kimliği, hedef kitlesi ve pazar pozisyonunu analiz ederek başlar. Reklam ajansı, mevcut marka durumunu değerlendirir ve benzersiz bir marka pozisyonu oluşturmak için stratejiler geliştirir.",
           "highlightColor": "extra04-color",
           "image": "/images/process/stratejik-planlama.png"
         },
         {
           "id": 2,
-          "title": "Tasarım ve Geliştirme",
+          "title": "Görsel ve İletişim Stratejisi:",
           "subtitle": "2. Adım",
-          "description": "Uygulama tasarımı ve geliştirme aşamasında, belirlenen stratejiye uygun arayüz tasarlanır ve geliştirilir. Kullanıcı dostu bir deneyim sağlamak için mobil platform gereksinimleri göz önünde bulundurulur. Bu aşamada, sürekli geri bildirim alarak uygulamanın istenen özelliklere uygunluğu sağlanır.",
+          "description": "Oluşturulan marka stratejisinin bir parçası olarak, görsel kimlik ve iletişim stratejileri belirlenir. Logo, renk paleti, tipografi gibi görsel unsurlar, markanın istenen mesajını güçlendirecek şekilde tasarlanır. Ayrıca, markanın sesi ve tonu da belirlenerek tutarlı bir iletişim stratejisi oluşturulur.",
           "highlightColor": "extra05-color",
           "image": "/images/process/tasarım-geliştirme-mobil.png"
         },
         {
           "id": 3,
-          "title": "Test ve Geri Bildirim",
+          "title": "Uygulama ve Tanıtım: ",
           "subtitle": "3. Adım",
-          "description": "Geliştirilen mobil uygulama, farklı cihazlarda ve kullanım senaryolarında kapsamlı bir şekilde test edilir. Hatalar tespit edilip düzeltilir, performans kontrolü yapılır ve kullanıcı geri bildirimleri değerlendirilir. Bu aşama, uygulamanın istikrarlı ve güvenilir bir şekilde çalışmasını sağlar.",
+          "description": "Belirlenen marka stratejileri, çeşitli kanallarda uygulanarak markanın güçlendirilmesi sağlanır. Reklam ajansı, marka mesajının doğru ve etkili bir şekilde hedef kitleye iletilmesini sağlamak için çeşitli tanıtım stratejileri geliştirir. Bu, reklamlar, sosyal medya kampanyaları ve etkinlikler aracılığıyla gerçekleştirilebilir. ",
           "highlightColor": "extra06-color",
           "image": "/images/process/test-geri-bildirim.png"
         },
         {
           "id": 4,
-          "title": "Dağıtım ve Pazarlama",
+          "title": "Takip ve Geliştirme: ",
           "subtitle": "4. Adım",
-          "description": "Uygulama, onay alındıktan sonra ilgili uygulama mağazalarında (App Store, Google Play) yayına alınır. Aynı zamanda, reklam ajansı uygulamanın pazarlanması için stratejiler geliştirir ve tanıtım kampanyaları düzenler. Sürekli kullanıcı geri bildirimleri ve performans analizleri ile uygulama, zamanla güncellenerek kullanıcı deneyimi ve uygulama performansı optimize edilir",
+          "description": "Marka danışmanlığı sürecinin son aşamasında, markanın performansı düzenli olarak takip edilir. Müşteri geri bildirimleri ve pazar geri dönüşleri değerlendirilerek stratejiler sürekli olarak güncellenir ve marka geliştirme çabaları devam eder. Ajans, markanın değişen pazar dinamiklerine uyum sağlamak için müşteriyle birlikte çalışarak sürekli iyileştirme sağlar.",
           "highlightColor": "extra07-color",
           "image": "/images/process/dağıtım-pazarlama.png"
         }
